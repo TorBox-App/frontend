@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /download
+Disallow: /error
+Disallow: /dashboard
+Disallow: /quickadd
+Disallow: /subscription
