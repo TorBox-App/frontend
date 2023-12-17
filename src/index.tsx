@@ -1,3 +1,5 @@
+import "./index.css";
+
 export default function Index() {
-    return <div>Hello, TorBox!</div>;
+    return <p className="underline">Hello, TorBox!</p>;
 }
